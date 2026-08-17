@@ -1,0 +1,24 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333333;
+    margin: 40px;
+}
+
+h1 {
+    color: #005A9C;
+}
+/* Custom Suzuki Theme */
+.suzuki-theme h1 {
+    color: #003399; /* Suzuki Corporate Blue */
+    border-bottom: 3px solid #cc0000; /* A sharp red accent line under the title */
+    padding-bottom: 10px;
+}
+
+.suzuki-theme h2 {
+    color: #1a1a1a; /* Almost black to match the bike */
+}
+
+.suzuki-theme a {
+    color: #003399; /* Make the links Suzuki blue */
+}
